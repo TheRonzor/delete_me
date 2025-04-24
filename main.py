@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
+    # Hope you are having a great day!
     print("Hello from delete-me!")
 
 
